@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title>Retail Flagship Entry</title>
+  <rect width="1200" height="800" fill="#f1ece4"/>
+  <rect x="90" y="120" width="1020" height="560" fill="#ffffff" stroke="#384553" stroke-width="12"/>
+  <rect x="250" y="190" width="700" height="420" fill="#dce6ef" stroke="#384553" stroke-width="8"/>
+  <rect x="250" y="190" width="700" height="70" fill="#b08a57"/>
+  <circle cx="600" cy="400" r="30" fill="#384553"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title>Office Tower Lobby Entry</title>
+  <rect width="1200" height="800" fill="#d9dfde"/>
+  <rect x="120" y="90" width="960" height="620" fill="#f5f7f8" stroke="#29333d" stroke-width="14"/>
+  <rect x="260" y="160" width="680" height="480" fill="#cad7df" stroke="#29333d" stroke-width="10"/>
+  <line x1="600" y1="160" x2="600" y2="640" stroke="#29333d" stroke-width="8"/>
+  <rect x="570" y="390" width="60" height="18" rx="9" fill="#29333d"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title>Senior Living Entrance</title>
+  <rect width="1200" height="800" fill="#e4ece8"/>
+  <rect x="130" y="110" width="940" height="580" fill="#ffffff" stroke="#365048" stroke-width="12"/>
+  <rect x="380" y="190" width="440" height="420" fill="#dcece5" stroke="#365048" stroke-width="8"/>
+  <rect x="560" y="190" width="80" height="420" fill="#c1d9cf"/>
+  <rect x="540" y="380" width="120" height="18" rx="9" fill="#365048"/>
+</svg>
