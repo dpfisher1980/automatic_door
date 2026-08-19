@@ -652,7 +652,6 @@ p {
 }
 
 @media (max-width: 1024px) {
-  .hero-content,
   .split-layout,
   .embla-slide,
   .contact-panel {
@@ -690,8 +689,34 @@ p {
     align-items: start;
   }
 
+  .hero-content {
+    gap: var(--space-4);
+  }
+}
+
+@media (max-width: 860px) {
+  .hero-content {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-copy-block {
+    order: 1;
+  }
+
   .hero-editorial-panel {
+    order: 2;
+  }
+
+  .hero-divider {
     order: 3;
+  }
+
+  .hero-content > div:not(.hero-copy-block) {
+    order: 4;
+  }
+
+  .stats-grid {
+    order: 5;
   }
 }
 
