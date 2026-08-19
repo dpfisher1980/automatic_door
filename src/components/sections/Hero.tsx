@@ -43,16 +43,16 @@ export function HeroSection({ hero, nav }: HeroSectionProps) {
             aria-label="Design and reliability highlights"
           >
             <div className="editorial-card editorial-card-large">
-              <p>Signature Detail</p>
-              <h3>Warm Material Palette, Technical Precision</h3>
+              <p>Precision in Motion</p>
+              <h3>Decades of expertise in automated access systems.</h3>
             </div>
             <div className="editorial-card">
-              <p>Workflow</p>
-              <h3>Survey to Commissioning</h3>
+              <p>Where Engineering Meets Elegance</p>
+              <h3>Elevate security, efficiency, and architectural design.</h3>
             </div>
             <div className="editorial-card">
-              <p>Approach</p>
-              <h3>Accessibility Forward</h3>
+              <p>Compliance You Can Trust</p>
+              <h3>Delivering compliant and reliable access systems.</h3>
             </div>
           </aside>
 

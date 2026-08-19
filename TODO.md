@@ -10,7 +10,7 @@ Legend:
 
 - [x] Initialize Vite React + TypeScript project
 - [x] Add ESLint + Prettier + strict TypeScript settings
-- [x] Create global design token system (colors, type, spacing, motion)
+- [x] Create global design token system (colours, type, spacing, motion)
 - [x] Prepare scalable single-page structure
 
 ### Phase 2 - Content Architecture
@@ -28,14 +28,14 @@ Legend:
 - [x] Build sections: Hero, About, Services, Projects, Contact
 - [x] Implement premium visual direction (typography, palette, spacing)
 - [x] Add intentional motion and reduced-motion support
-- [x] Complete responsive behavior for mobile/tablet/desktop
+- [x] Complete responsive behaviour for mobile/tablet/desktop
 
 ### Phase 4 - Projects Carousel + Gallery
 
 - [x] Implement modern, accessible project carousel
 - [x] Add linked project gallery/grid view
 - [x] Populate 6-8 demo projects with outcomes and sector labels
-- [x] Optimize media loading and image performance
+- [x] Optimise media loading and image performance
 
 ### Phase 5 - Contact and Conversion UX
 
@@ -48,15 +48,15 @@ Legend:
 
 - [x] Validate semantic structure and heading hierarchy
 - [x] Validate keyboard navigation and visible focus states
-- [x] Validate color contrast and reduced-motion behavior
+- [x] Validate colour contrast and reduced-motion behaviour
 - [x] Add SEO metadata and social preview defaults
 - [x] Run performance checks and fix key bottlenecks
 
 ### Phase 7 - Cloudflare Deployment
 
-- [ ] Configure production build for Cloudflare Pages
-- [ ] Add run/build/deploy instructions in README
-- [ ] Run deployment smoke test in production
+- [x] Configure production build for Cloudflare Pages
+- [x] Add run/build/deploy instructions in README
+- [~] Run deployment smoke test in production
 
 ### Phase 8 - CMS Readiness (No Live CMS Yet)
 

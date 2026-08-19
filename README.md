@@ -59,10 +59,33 @@ Use `.env.example` as a template.
 
 ## Cloudflare Pages Deployment
 
-Use these settings in Cloudflare Pages:
+1. In Cloudflare Dashboard, go to Workers & Pages > Create > Pages > Connect to Git.
+2. Select this repository and choose your production branch (for example `main`).
+3. Use the build settings below:
 
+- Framework preset: `Vite`
 - Build command: `npm run build`
 - Build output directory: `dist`
-- Node version: latest LTS (recommended)
+- Root directory: `/` (project root)
+- Node.js version: latest LTS (recommended)
 
-After connecting your repository, each push to your production branch will deploy a static build.
+4. Add environment variable for production:
+
+- Key: `VITE_CONTENT_PROVIDER`
+- Value: `local`
+
+5. Click Save and Deploy.
+
+## Post-Deploy Smoke Test
+
+After Cloudflare provides the site URL, validate:
+
+1. Homepage loads without missing assets.
+2. Hero background image appears correctly.
+3. Project carousel navigation works.
+4. Contact links open correctly:
+
+- `mailto:clakin1@gmail.com`
+- `tel:07796842200`
+
+Each push to your production branch will trigger a new deployment automatically.

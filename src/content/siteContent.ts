@@ -11,13 +11,13 @@ export const localSiteContent: SiteContent = {
     eyebrow: 'Commercial Entry Specialists',
     title: 'Automatic Door Systems for Buildings That Cannot Afford Downtime',
     subtitle:
-      'Automatic Door Solutions designs, installs, modernizes, and services commercial entrance systems with a precision-first approach to safety, compliance, and first impressions.',
+      'Automatic Door Solutions designs, installs, modernises, and services commercial entrance systems with a precision-first approach to safety, compliance, and first impressions.',
     primaryCta: { label: 'Request A Site Assessment', href: '#contact' },
     secondaryCta: { label: 'View Completed Projects', href: '#projects' },
     stats: [
       { label: 'Response Window', value: 'Under 24 Hours' },
       { label: 'Commercial Sectors Served', value: '6 Core Industries' },
-      { label: 'Preventive Uptime Programs', value: 'Tailored Per Site' },
+      { label: 'Preventive Uptime Programmes', value: 'Tailored Per Site' },
     ],
   },
   about: {
@@ -30,7 +30,7 @@ export const localSiteContent: SiteContent = {
       'Certified technicians for installation and service',
       'Accessibility and compliance-focused assessments',
       'Rapid diagnostics for mission-critical entry points',
-      'Preventive maintenance programs for lifecycle reliability',
+      'Preventive maintenance programmes for lifecycle reliability',
     ],
   },
   services: {
@@ -54,7 +54,7 @@ export const localSiteContent: SiteContent = {
           'Priority response for non-responsive, misaligned, or safety-locked doors that disrupt operations.',
       },
       {
-        title: 'Preventive Maintenance Programs',
+        title: 'Preventive Maintenance Programmes',
         description:
           'Scheduled inspections, tuning, and wear-part replacement to reduce outages before they happen.',
       },
@@ -73,10 +73,10 @@ export const localSiteContent: SiteContent = {
   projects: [
     {
       id: 'medical-center',
-      title: 'Regional Medical Center Entry Modernization',
+      title: 'Regional Medical Centre Entry Modernisation',
       sector: 'Healthcare',
       imageUrl: '/projects/medical-center.svg',
-      imageAlt: 'Medical center entrance with automatic sliding doors',
+      imageAlt: 'Medical centre entrance with automatic sliding doors',
       challenge:
         'Aging entry operators caused frequent interruptions at a high-throughput patient entrance.',
       solution:
@@ -111,14 +111,14 @@ export const localSiteContent: SiteContent = {
     },
     {
       id: 'airport-concourse',
-      title: 'Airport Concourse Service Program',
+      title: 'Airport Concourse Service Programme',
       sector: 'Transport',
       imageUrl: '/projects/airport-concourse.svg',
       imageAlt: 'Airport concourse entry points serviced by automatic door systems',
       challenge:
         'Multiple concourse entry points required coordinated maintenance with minimal disruption.',
       solution:
-        'Rolled out a phased preventive program with zone-by-zone service scheduling.',
+        'Rolled out a phased preventive programme with zone-by-zone service scheduling.',
       outcome:
         'Reduced emergency callouts and improved consistency across critical passenger routes.',
     },
@@ -144,7 +144,7 @@ export const localSiteContent: SiteContent = {
       challenge:
         'Residents needed lower-effort, safer entry with reliable low-energy operation.',
       solution:
-        'Added low-energy operators, push-plate activation, and optimized closing speed profiles.',
+        'Added low-energy operators, push-plate activation, and optimised closing speed profiles.',
       outcome: 'Safer independent access for residents and smoother visitor entry.',
     },
   ],
@@ -158,7 +158,7 @@ export const localSiteContent: SiteContent = {
     phoneDisplay: '07796842200',
     phoneHref: 'tel:07796842200',
     responseSla:
-      'Typical response within one business day. Urgent service requests are prioritized.',
+      'Typical response within one business day. Urgent service requests are prioritised.',
     businessHours: 'Mon-Fri: 08:00-18:00 | Emergency support available by phone.',
   },
 }
